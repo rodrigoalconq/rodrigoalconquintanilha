@@ -74,14 +74,12 @@ a{
     position: sticky;
     top: 0;
     z-index: 1000;
-    padding-bottom: 50px;
     .logo{
         width: 100px;
     }
     nav{
         ul{
             list-style: none;
-            padding-bottom: 50px;
             li{
                 display: inline-block;
                 margin-right: 15px
